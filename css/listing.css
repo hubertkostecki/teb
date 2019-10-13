@@ -1,0 +1,22 @@
+*{
+  background-color: lightgrey;
+}
+ol.roman.red{
+  list-style-type: lower-roman;
+  color:red;
+}
+ul.letter{
+  list-style-type: lower-latin;
+}
+ul.number{
+  list-style-type: decimal;
+}
+ul.blue{
+  color:blue;
+}
+ul.letter.yellow{
+  color:yellow;
+}
+ul.number.yellow{
+  color: yellow;
+}
